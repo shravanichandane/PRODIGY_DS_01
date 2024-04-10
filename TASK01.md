@@ -63,21 +63,3 @@ ggplot(Orders, aes(x = category )) +
 * Allows users to customize the plot as needed (e.g., add labels, change colors, etc.).
 * Provides an example of how to create a bar chart to visualize the distribution of regions in a sample dataset.
 
-## Installation
-
-To install and run this project, follow these steps:
-
-1. Clone the repository:
-git clone https://github.com/[username]/[repository-name].git
-2. Navigate to the project directory:
-cd [repository-name]
-3. Open the R project file (`PRODIGY_DS_01.R`) in RStudio.
-4. Follow the instructions in the R script to load the sample dataset , filter the dataset to include only the region and value columns, rename the columns, and create the bar chart.
-
-## Contributing
-
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
