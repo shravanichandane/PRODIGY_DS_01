@@ -12,6 +12,9 @@ This task involves creating a bar chart or histogram to visualize the distributi
 
 The goal of this task is to create a visual representation of the distribution of a variable using a bar chart or histogram. This will help us to understand the frequency or proportion of each category or value in the dataset.
 
+## dataset taken
+Orders.xlsx [Orders.xlsx](https://github.com/shravanichandane/PRODIGY_DS_01/files/14934878/Orders.xlsx)
+
 ## Steps
 
 1. Load the dataset Orders ( you can choose any dataset) using the `read.csv` function.
@@ -53,7 +56,7 @@ ggplot(Orders, aes(x = category )) +
   labs(title = "Distribution of category",
        x = "category")
 
-# Features
+## Features
 
 * Allows users to visualize the distribution of a categorical or continuous variable using a bar chart or histogram.
 * Supports loading data from the desired dataset using the `read.csv` function.
@@ -63,3 +66,4 @@ ggplot(Orders, aes(x = category )) +
 * Allows users to customize the plot as needed (e.g., add labels, change colors, etc.).
 * Provides an example of how to create a bar chart to visualize the distribution of regions in a sample dataset.
 
+[Orders.xlsx](https://github.com/shravanichandane/PRODIGY_DS_01/files/14934880/Orders.xlsx)
