@@ -66,4 +66,4 @@ ggplot(Orders, aes(x = category )) +
 * Allows users to customize the plot as needed (e.g., add labels, change colors, etc.).
 * Provides an example of how to create a bar chart to visualize the distribution of regions in a sample dataset.
 
-[Orders.xlsx](https://github.com/shravanichandane/PRODIGY_DS_01/files/14934880/Orders.xlsx)
+
