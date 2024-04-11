@@ -75,7 +75,5 @@ Order ID Order Date  customer_id CustomerName             State     City  order_
 3         4 2018-12-27            7        Gopal  Himachal Pradesh    Simla         2599          1145   Phones
 4         5 2018-08-21            9     Vishakha          Nagaland   Kohima         2599          2291   Phones
 
-![Figure_1task](https://github.com/shravanichandane/PRODIGY_DS_01/assets/166283264/a9e41854-2a10-4849-9d00-f76b63643758)
-
-
-![Figure_1 ordertak1](https://github.com/shravanichandane/PRODIGY_DS_01/assets/166283264/15ae0e5e-797f-42b2-a162-c9874abc893e)
+![Figure_1 ordertak1](https://github.com/shravanichandane/PRODIGY_DS_01/assets/166283264/4c589c59-2892-4a77-95f8-bbac8814d897)
+![Figure_1task](https://github.com/shravanichandane/PRODIGY_DS_01/assets/166283264/80d2be88-8633-4e87-a452-2a88dfdae00b)
