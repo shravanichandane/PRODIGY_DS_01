@@ -48,7 +48,7 @@ sns.histplot(x='order_total', data=df)
 plt.title('Distribution of Order Total')
 plt.show()
 
-***Features***
+## Features
 
 * Allows users to visualize the distribution of a categorical or continuous variable using a bar chart or histogram.
 * Supports loading data from the desired dataset using the `read.csv`, 'read.excel' function.
@@ -78,6 +78,6 @@ Order ID Order Date  customer_id CustomerName             State     City  order_
 ![Figure_1 ordertak1](https://github.com/shravanichandane/PRODIGY_DS_01/assets/166283264/4c589c59-2892-4a77-95f8-bbac8814d897)
 ![Figure_1task](https://github.com/shravanichandane/PRODIGY_DS_01/assets/166283264/80d2be88-8633-4e87-a452-2a88dfdae00b)
 
-### Linkedin profile:
+## Linkedin profile:
 www.linkedin.com/in/shravani-chandane-58ab062b6
 
