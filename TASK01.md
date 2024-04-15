@@ -37,7 +37,7 @@ packages: pandas,seaborn,matplotlib.
 * Allows users to customize the plot as needed (e.g., add labels, change colors, etc.).
 * Provides an example of how to create a bar chart to visualize the distribution of regions in a sample dataset.
 
-## conclusion
+## Conclusion
 After visualizing the distribution of statuses and order totals in the dataset, we can observe the following patterns and trends:
 
 The dataset contains data for 1000 orders.
