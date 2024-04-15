@@ -28,26 +28,6 @@ Orders.xlsx [Orders.xlsx](https://github.com/shravanichandane/PRODIGY_DS_01/file
 VS-code
 packages: pandas,seaborn,matplotlib.
 
-## Source code of the project
-
-Here's an example of how to create a bar chart to visualize the distribution of regions in a sample dataset:
-
-```
-import pandas as pd
-import matplotlib.pyplot as plt
-import seaborn as sns
-
-df = pd.read_excel('C:/Users/shrav/Downloads/Orders.xlsx')............ #copy path of the file.
-print(df.head())
-
-sns.countplot(x='State', data=df)
-plt.title('Distribution of States')
-plt.show()
-
-sns.histplot(x='order_total', data=df)
-plt.title('Distribution of Order Total')
-plt.show()
-
 ## Features
 
 * Allows users to visualize the distribution of a categorical or continuous variable using a bar chart or histogram.
@@ -64,19 +44,6 @@ The dataset contains data for 1000 orders.
 The status distribution is skewed to the right, with a large number of orders having a 'Completed' status and a smaller number of orders having a 'Cancelled' status.
 The order total distribution is also skewed to the right, with a large number of orders having a lower order total and a smaller number of orders having a higher order total.
 These observations can be used to understand the distribution of orders and inform business decisions related to inventory management, pricing, and other operational strategies.
-
-
-output:
-
-Order ID Order Date  customer_id CustomerName             State     City  order_total  Product cost Category
-0         1 2018-03-10            1    Harivansh     Uttar Pradesh  Mathura         2599          1145   Phones
-1         2 2018-02-03            3       Madhav    Madhya Pradesh   Indore         2599          1145   Phones
-2         3 2018-01-24            5  Madan Mohan  Himachal Pradesh    Simla         2599          1145   Tables
-3         4 2018-12-27            7        Gopal  Himachal Pradesh    Simla         2599          1145   Phones
-4         5 2018-08-21            9     Vishakha          Nagaland   Kohima         2599          2291   Phones
-
-![Figure_1 ordertak1](https://github.com/shravanichandane/PRODIGY_DS_01/assets/166283264/4c589c59-2892-4a77-95f8-bbac8814d897)
-![Figure_1task](https://github.com/shravanichandane/PRODIGY_DS_01/assets/166283264/80d2be88-8633-4e87-a452-2a88dfdae00b)
 
 ## Linkedin profile:
 www.linkedin.com/in/shravani-chandane-58ab062b6
